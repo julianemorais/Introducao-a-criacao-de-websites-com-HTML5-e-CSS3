@@ -3,3 +3,5 @@
 
 O cara só falou que ia usar o VS Code não mostrou como instalar, e quando abriu o VS Code nem mostou como abrir um novo arquivo.
 Ele fez como se todo mundo que faz a aula já soubesse como fazer e cada uma viu.
+
+Essas aulas de HTML também são muito ruins.
